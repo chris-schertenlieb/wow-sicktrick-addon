@@ -1,0 +1,6 @@
+<Bindings>
+	<!-- Reuses the compartment handler so the addon exposes no extra global. -->
+	<Binding name="SICKTRICK_TOGGLE" header="SICKTRICK" category="ADDONS">
+		SickTrick_OnCompartmentClick()
+	</Binding>
+</Bindings>

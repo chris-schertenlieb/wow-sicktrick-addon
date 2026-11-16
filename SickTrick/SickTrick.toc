@@ -1,0 +1,11 @@
+## Interface: 120105
+## Title: SickTrick
+## Notes: Tony Hawk-style trick callouts for mid-air spins.
+## Author: Christopher
+## Version: 0.1.0
+## SavedVariables: SickTrickDB
+## IconTexture: Interface\Icons\Ability_Rogue_Sprint
+## AddonCompartmentFunc: SickTrick_OnCompartmentClick
+
+Announce.lua
+Core.lua
